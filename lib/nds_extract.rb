@@ -20,6 +20,11 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
+  
+  
+  
+  
+  
   director_index = 0
   totals = {}
 
